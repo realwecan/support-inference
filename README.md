@@ -13,6 +13,8 @@ NYU ECCV 2012 paper on support inference
 -------------------------------------------------
 Version 20130424
 
+Room alignment, plane segmentation, watershed and merge
+
 How to use the code?
 
 1. Change dataset root directory in Consts.m, it is "consts.datasetDir".
