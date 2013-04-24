@@ -15,7 +15,7 @@ run_rgbd2planes;
 % Compute the initial watershed segmentation and label each of the initial
 % segments with an instance label.
 run_watershed_segmentation;
-run_regions2labels.m
+run_regions2labels;
 
 % Next, train and evaluat eseveral stages of boundary classifiers.
 run_train_boundary_classifiers;
