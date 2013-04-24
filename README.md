@@ -6,9 +6,8 @@ NYU ECCV 2012 paper on support inference
 
 % Requirements:
 
-
 % http://spams-devel.gforge.inria.fr/
-
+(Not needed in Version 20130424)
 
 -------------------------------------------------
 Version 20130424
